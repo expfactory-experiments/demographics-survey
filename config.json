@@ -2,6 +2,7 @@
     "name": "Demographics Survey",
     "template":"survey",
     "exp_id": "demographics-survey",
+    "url": "https://github.com/expfactory-experiments/demographics-survey",
     "cognitive_atlas_task_id": "",
     "contributors": [
              "Zeynep Enkavi",
